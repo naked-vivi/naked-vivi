@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c5/e4/b5/c5e4b54952c6857bf00a02929abffe51.gif" width="50%" style="border-radius: 12px;" alt="Aesthetic Banner" />
+  <!-- <img src="https://i.pinimg.com/originals/c5/e4/b5/c5e4b54952c6857bf00a02929abffe51.gif" width="50%" style="border-radius: 12px;" alt="Aesthetic Banner" /> -->
+  <img width="771" height="434" alt="image" src="https://github.com/user-attachments/assets/68492401-0440-4a47-af41-fa00e2a18298" />
 </p>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDF74C&width=435&lines=It's+me...Vivian!;I'm+open+to+Frontend+Position+rn!;I+love+React+%3A3;Fun+Fact%3A;Matcha+and+Beach+are+my+fav!!!;Nice+to+meet+you)](https://git.io/typing-svg)
 
