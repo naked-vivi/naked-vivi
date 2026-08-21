@@ -1,6 +1,8 @@
 <p align="center">
   <!-- <img src="https://i.pinimg.com/originals/c5/e4/b5/c5e4b54952c6857bf00a02929abffe51.gif" width="50%" style="border-radius: 12px;" alt="Aesthetic Banner" /> -->
-  <img width="771" height="434" alt="image" src="https://github.com/user-attachments/assets/68492401-0440-4a47-af41-fa00e2a18298" />
+  <!-- <img width="771" height="434" alt="image" src="https://github.com/user-attachments/assets/68492401-0440-4a47-af41-fa00e2a18298" /> -->
+  <img width="771" height="434" alt="image" src="https://github.com/user-attachments/assets/d41b3b64-9095-473a-94e0-abf73966d63b" />
+
 </p>
 
 
