@@ -23,4 +23,4 @@ I'm a fresh Software Engineering graduate focused on building clean, responsive,
 ## Connect
 
 - **Email:** pyaephyoeaein@gmail.com
-- **LinkedIn:** [linkedin.com/in/your-linkedin-handle](www.linkedin.com/in/nang-pyae-pyae-phyoe-aein-3b5394342)
+- **LinkedIn:** [linkedin.com/in/nang-pyae-pyae-phyoe-aein-3b5394342](https://www.linkedin.com/in/nang-pyae-pyae-phyoe-aein-3b5394342)
