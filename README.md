@@ -1,4 +1,4 @@
-# Hi, I'm Nang 👋
+# Hi, I'm Vivian👋
 
 I'm a fresh Software Engineering graduate focused on building clean, responsive, and user-friendly web applications. My main interest is **Frontend Development**, especially creating intuitive interfaces with React, while continuing to grow my skills across the **Full-Stack**.
 
