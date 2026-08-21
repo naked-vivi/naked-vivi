@@ -1,7 +1,14 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/e9/34/e9/e934e900c2e75c823fd6121dea057253.gif" width="100%" height="320" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F793F5&center=true&width=435&lines=It's+me...Vivian!;I'm+open+to+Frontend+Position+rn!;I+love+React+%3A3;Fun+Fact%3A;Matcha+and+Beach+are+my+fav!!!;Nice+to+meet+you)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F793F5&center=true&width=600&lines=It's+me...Vivian!;I'm+open+to+Frontend+Position+rn!;I+love+React+%3A3;Fun+Fact%3A;Matcha+and+Beach+are+my+fav!!!;Nice+to+meet+you"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 # Hi, I'm Vivian👋
 
