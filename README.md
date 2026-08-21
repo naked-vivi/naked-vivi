@@ -46,26 +46,18 @@ I'm a fresh Software Engineering graduate focused on building clean, responsive,
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/nang-pyae-pyae-phyoe-aein-3b5394342">
   <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pyaephyoeaein@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-F793F5?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+<a href="https://www.instagram.com/naked_vivii">
   <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://line.me/ti/p/YOUR_LINE_ID">
+<a href="https://line.me/ti/p/niea_ofethan">
   <img src="https://img.shields.io/badge/LINE-FFB6C1?style=for-the-badge&logo=line&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
-  <img src="https://img.shields.io/badge/Facebook-F793F5?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
