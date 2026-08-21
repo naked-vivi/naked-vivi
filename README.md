@@ -2,16 +2,12 @@
 
 I'm a fresh Software Engineering graduate focused on building clean, responsive, and user-friendly web applications. My main interest is **Frontend Development**, especially creating intuitive interfaces with React, while continuing to grow my skills across the **Full-Stack**.
 
----
-
 ## About Me
 
 - 🎓 Fresh graduate in Software Engineering
 - 🎯 Working toward becoming a Full-Stack Developer with a frontend focus
 - 💡 Interested in modern UI/UX, reusable components, and clean code
 - 🌱 Currently building React projects and strengthening my full-stack foundations
-
----
 
 ## Tech Stack
 
@@ -23,8 +19,6 @@ I'm a fresh Software Engineering graduate focused on building clean, responsive,
 
 **Tools**  
 `Vite` · `ESLint` · `Git` · `GitHub`
-
----
 
 ## Connect
 
