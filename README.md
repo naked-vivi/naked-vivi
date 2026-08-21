@@ -23,7 +23,7 @@ I'm a fresh Software Engineering graduate focused on building clean, responsive,
 
 ## Tech Stack
 
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -41,9 +41,31 @@ I'm a fresh Software Engineering graduate focused on building clean, responsive,
   <img src="https://img.shields.io/badge/Responsive_Design-14B8A6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Form_Handling-EC4899?style=for-the-badge&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
-## Connect
+## Connect With Me
 
-- **Email:** pyaephyoeaein@gmail.com
-- **LinkedIn:** [linkedin.com/in/nang-pyae-pyae-phyoe-aein-3b5394342](https://www.linkedin.com/in/nang-pyae-pyae-phyoe-aein-3b5394342)
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-F793F5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://line.me/ti/p/YOUR_LINE_ID">
+  <img src="https://img.shields.io/badge/LINE-FFB6C1?style=for-the-badge&logo=line&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
+  <img src="https://img.shields.io/badge/Facebook-F793F5?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
