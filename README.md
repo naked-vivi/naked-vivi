@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c5/e4/b5/c5e4b54952c6857bf00a02929abffe51.gif" width="50%" style="border-radius: 12px;" alt="Aesthetic Banner" />
+  <!-- <img src="https://i.pinimg.com/originals/c5/e4/b5/c5e4b54952c6857bf00a02929abffe51.gif" width="50%" style="border-radius: 12px;" alt="Aesthetic Banner" /> -->
+ <img src="https://i.pinimg.com/originals/e9/34/e9/e934e900c2e75c823fd6121dea057253.gif" width="100%" style="max-height: 220px; object-fit: cover; border-radius: 12px;" alt="Aesthetic Banner" />
 </p>
 
 
